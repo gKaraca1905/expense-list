@@ -21,6 +21,8 @@ A small web app for tracking personal expenses. Built for the CMPS 510 final ind
 - VS Code and the Live Server extension for development
 - GitHub and GitHub Pages for hosting
 - Claude (AI assistant by Anthropic) helped me plan the project, write the code and explain how it works. I tested the app and I can explain the code.
+- validator.w3.org for HTML works checking
+- Code quality was analized by lighthouse section in chrome 
 
 ## How to run locally
 Download the files and open `index.html` in a browser.
